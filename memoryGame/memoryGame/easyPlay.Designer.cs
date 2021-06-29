@@ -29,6 +29,7 @@ namespace memoryGame
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(easyPlay));
             this.LeftArrow = new System.Windows.Forms.PictureBox();
             this.BackButton = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
@@ -397,7 +398,9 @@ namespace memoryGame
             this.Controls.Add(this.label2);
             this.Controls.Add(this.BackButton);
             this.Controls.Add(this.LeftArrow);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "easyPlay";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Easy Level Questions";
             ((System.ComponentModel.ISupportInitialize)(this.LeftArrow)).EndInit();
             this.ResumeLayout(false);

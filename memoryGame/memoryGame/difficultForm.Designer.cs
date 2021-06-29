@@ -400,8 +400,10 @@ namespace memoryGame
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.LeftArrow);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Location = new System.Drawing.Point(236, 41);
             this.Name = "DifficultForm";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "difficultForm";
             ((System.ComponentModel.ISupportInitialize)(this.LeftArrow)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.goodNewsPic)).EndInit();

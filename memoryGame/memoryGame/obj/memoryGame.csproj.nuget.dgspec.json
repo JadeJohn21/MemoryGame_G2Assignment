@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\CPUT\\Desktop\\G2 Assignment\\Memory_Game_G2-master\\memoryGame\\memoryGame\\memoryGame.csproj": {}
+    "C:\\Users\\SmartCruss Hp laptop\\Desktop\\MemoryGame_G2Assignment\\memoryGame\\memoryGame\\memoryGame.csproj": {}
   },
   "projects": {
-    "C:\\Users\\CPUT\\Desktop\\G2 Assignment\\Memory_Game_G2-master\\memoryGame\\memoryGame\\memoryGame.csproj": {
+    "C:\\Users\\SmartCruss Hp laptop\\Desktop\\MemoryGame_G2Assignment\\memoryGame\\memoryGame\\memoryGame.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\CPUT\\Desktop\\G2 Assignment\\Memory_Game_G2-master\\memoryGame\\memoryGame\\memoryGame.csproj",
+        "projectUniqueName": "C:\\Users\\SmartCruss Hp laptop\\Desktop\\MemoryGame_G2Assignment\\memoryGame\\memoryGame\\memoryGame.csproj",
         "projectName": "memoryGame",
-        "projectPath": "C:\\Users\\CPUT\\Desktop\\G2 Assignment\\Memory_Game_G2-master\\memoryGame\\memoryGame\\memoryGame.csproj",
-        "packagesPath": "C:\\Users\\CPUT\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\CPUT\\Desktop\\G2 Assignment\\Memory_Game_G2-master\\memoryGame\\memoryGame\\obj\\",
+        "projectPath": "C:\\Users\\SmartCruss Hp laptop\\Desktop\\MemoryGame_G2Assignment\\memoryGame\\memoryGame\\memoryGame.csproj",
+        "packagesPath": "C:\\Users\\SmartCruss Hp laptop\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\SmartCruss Hp laptop\\Desktop\\MemoryGame_G2Assignment\\memoryGame\\memoryGame\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\CPUT\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\SmartCruss Hp laptop\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -57,7 +57,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -6,8 +6,8 @@
       "version": "3.1.0"
     },
     "additionalProbingPaths": [
-      "C:\\Users\\CPUT\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\CPUT\\.nuget\\packages"
+      "C:\\Users\\SmartCruss Hp laptop\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\SmartCruss Hp laptop\\.nuget\\packages"
     ],
     "configProperties": {
       "Microsoft.NETCore.DotNetHostPolicy.SetAppPaths": true

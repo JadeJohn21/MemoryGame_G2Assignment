@@ -29,6 +29,7 @@ namespace memoryGame
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(QuestionsForm));
             this.BackButton = new System.Windows.Forms.Label();
             this.LeftArrow = new System.Windows.Forms.PictureBox();
             this.grayHairPic = new System.Windows.Forms.PictureBox();
@@ -703,9 +704,9 @@ namespace memoryGame
             this.startOtherLevel.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
             this.startOtherLevel.Location = new System.Drawing.Point(161, 261);
             this.startOtherLevel.Name = "startOtherLevel";
-            this.startOtherLevel.Size = new System.Drawing.Size(557, 17);
+            this.startOtherLevel.Size = new System.Drawing.Size(566, 17);
             this.startOtherLevel.TabIndex = 76;
-            this.startOtherLevel.Text = "Would you like to star the nest level? Click the button below";
+            this.startOtherLevel.Text = "Would you like to start the next level? Click the button below";
             // 
             // startNextLevel
             // 
@@ -781,7 +782,9 @@ namespace memoryGame
             this.Controls.Add(this.grayHairPic);
             this.Controls.Add(this.BackButton);
             this.Controls.Add(this.LeftArrow);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "QuestionsForm";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Medium Level Questions";
             ((System.ComponentModel.ISupportInitialize)(this.LeftArrow)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.grayHairPic)).EndInit();

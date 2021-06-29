@@ -30,6 +30,7 @@ namespace memoryGame
         private void InitializeComponent()
         {
             this.components = new System.ComponentModel.Container();
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(EasyForm));
             this.helloImage = new System.Windows.Forms.PictureBox();
             this.englishLabel = new System.Windows.Forms.Label();
             this.afrikaansLabel = new System.Windows.Forms.Label();
@@ -269,7 +270,9 @@ namespace memoryGame
             this.Controls.Add(this.englishLabel);
             this.Controls.Add(this.helloImage);
             this.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "EasyForm";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Easy Level";
             ((System.ComponentModel.ISupportInitialize)(this.helloImage)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.LeftArrow)).EndInit();

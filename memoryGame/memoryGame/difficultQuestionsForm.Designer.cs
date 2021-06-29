@@ -1380,7 +1380,9 @@ namespace memoryGame
             this.Controls.Add(this.question1Lbl2);
             this.Controls.Add(this.question1Lbl);
             this.Controls.Add(this.LeftArrow);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "DifficultQuestionsForm";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "difficultQuestionsForm";
             ((System.ComponentModel.ISupportInitialize)(this.LeftArrow)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.question1Answer4)).EndInit();
