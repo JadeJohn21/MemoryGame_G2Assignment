@@ -89,3 +89,26 @@ C:\Users\CPUT\Desktop\G2 Assignment\Memory_Game_G2-master\memoryGame\memoryGame\
 C:\Users\CPUT\Desktop\G2 Assignment\Memory_Game_G2-master\memoryGame\memoryGame\obj\Debug\netcoreapp3.1\memoryGame.dll
 C:\Users\CPUT\Desktop\G2 Assignment\Memory_Game_G2-master\memoryGame\memoryGame\obj\Debug\netcoreapp3.1\memoryGame.pdb
 C:\Users\CPUT\Desktop\G2 Assignment\Memory_Game_G2-master\memoryGame\memoryGame\obj\Debug\netcoreapp3.1\memoryGame.genruntimeconfig.cache
+C:\Users\SmartCruss Hp laptop\Desktop\MemoryGame_G2Assignment\memoryGame\memoryGame\bin\Debug\netcoreapp3.1\memoryGame.exe
+C:\Users\SmartCruss Hp laptop\Desktop\MemoryGame_G2Assignment\memoryGame\memoryGame\bin\Debug\netcoreapp3.1\memoryGame.deps.json
+C:\Users\SmartCruss Hp laptop\Desktop\MemoryGame_G2Assignment\memoryGame\memoryGame\bin\Debug\netcoreapp3.1\memoryGame.runtimeconfig.json
+C:\Users\SmartCruss Hp laptop\Desktop\MemoryGame_G2Assignment\memoryGame\memoryGame\bin\Debug\netcoreapp3.1\memoryGame.runtimeconfig.dev.json
+C:\Users\SmartCruss Hp laptop\Desktop\MemoryGame_G2Assignment\memoryGame\memoryGame\bin\Debug\netcoreapp3.1\memoryGame.dll
+C:\Users\SmartCruss Hp laptop\Desktop\MemoryGame_G2Assignment\memoryGame\memoryGame\bin\Debug\netcoreapp3.1\memoryGame.pdb
+C:\Users\SmartCruss Hp laptop\Desktop\MemoryGame_G2Assignment\memoryGame\memoryGame\obj\Debug\netcoreapp3.1\memoryGame.csproj.AssemblyReference.cache
+C:\Users\SmartCruss Hp laptop\Desktop\MemoryGame_G2Assignment\memoryGame\memoryGame\obj\Debug\netcoreapp3.1\memoryGame.DifficultForm.resources
+C:\Users\SmartCruss Hp laptop\Desktop\MemoryGame_G2Assignment\memoryGame\memoryGame\obj\Debug\netcoreapp3.1\memoryGame.DifficultQuestionsForm.resources
+C:\Users\SmartCruss Hp laptop\Desktop\MemoryGame_G2Assignment\memoryGame\memoryGame\obj\Debug\netcoreapp3.1\memoryGame.EasyForm.resources
+C:\Users\SmartCruss Hp laptop\Desktop\MemoryGame_G2Assignment\memoryGame\memoryGame\obj\Debug\netcoreapp3.1\memoryGame.easyPlay.resources
+C:\Users\SmartCruss Hp laptop\Desktop\MemoryGame_G2Assignment\memoryGame\memoryGame\obj\Debug\netcoreapp3.1\memoryGame.HomePage.resources
+C:\Users\SmartCruss Hp laptop\Desktop\MemoryGame_G2Assignment\memoryGame\memoryGame\obj\Debug\netcoreapp3.1\memoryGame.GameLevels.resources
+C:\Users\SmartCruss Hp laptop\Desktop\MemoryGame_G2Assignment\memoryGame\memoryGame\obj\Debug\netcoreapp3.1\memoryGame.MediumForm.resources
+C:\Users\SmartCruss Hp laptop\Desktop\MemoryGame_G2Assignment\memoryGame\memoryGame\obj\Debug\netcoreapp3.1\memoryGame.Properties.Resources.resources
+C:\Users\SmartCruss Hp laptop\Desktop\MemoryGame_G2Assignment\memoryGame\memoryGame\obj\Debug\netcoreapp3.1\memoryGame.QuestionsForm.resources
+C:\Users\SmartCruss Hp laptop\Desktop\MemoryGame_G2Assignment\memoryGame\memoryGame\obj\Debug\netcoreapp3.1\memoryGame.csproj.GenerateResource.cache
+C:\Users\SmartCruss Hp laptop\Desktop\MemoryGame_G2Assignment\memoryGame\memoryGame\obj\Debug\netcoreapp3.1\memoryGame.AssemblyInfoInputs.cache
+C:\Users\SmartCruss Hp laptop\Desktop\MemoryGame_G2Assignment\memoryGame\memoryGame\obj\Debug\netcoreapp3.1\memoryGame.AssemblyInfo.cs
+C:\Users\SmartCruss Hp laptop\Desktop\MemoryGame_G2Assignment\memoryGame\memoryGame\obj\Debug\netcoreapp3.1\memoryGame.csproj.CoreCompileInputs.cache
+C:\Users\SmartCruss Hp laptop\Desktop\MemoryGame_G2Assignment\memoryGame\memoryGame\obj\Debug\netcoreapp3.1\memoryGame.dll
+C:\Users\SmartCruss Hp laptop\Desktop\MemoryGame_G2Assignment\memoryGame\memoryGame\obj\Debug\netcoreapp3.1\memoryGame.pdb
+C:\Users\SmartCruss Hp laptop\Desktop\MemoryGame_G2Assignment\memoryGame\memoryGame\obj\Debug\netcoreapp3.1\memoryGame.genruntimeconfig.cache
